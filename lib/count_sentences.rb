@@ -29,5 +29,6 @@ class String
   def count_sentences
     self.count
   end
-  count_sentences
+  
 end
+count_sentences
