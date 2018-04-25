@@ -23,10 +23,10 @@ class String
       true
     else
       false
-    end 
+    end
   end
 
   def count_sentences
-
+    return self
   end
 end
